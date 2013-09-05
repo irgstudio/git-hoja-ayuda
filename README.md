@@ -1,4 +1,4 @@
-git-hoja-ayuda
-==============
+GIT - Hoja de Ayuda
+===================
 
-GIT. Hoja de ayuda de comandos y flujo de trabajo.
+![GIT - Hoja de Ayuda](git-hoja-ayuda.jpeg "GIT - Hoja de Ayuda")
